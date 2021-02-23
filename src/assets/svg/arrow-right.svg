@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="28px" viewBox="0 0 40 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon / arrow big right</title>
+    <g id="Styleguide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-324.000000, -790.000000)" fill="#642fff" fill-rule="nonzero">
+            <g id="Group" transform="translate(324.000000, 784.000000)">
+                <g id="109617" transform="translate(0.000000, 6.000000)">
+                    <path d="M26.50625,0.41625 C25.97,-0.13875 25.0775,-0.13875 24.5225,0.41625 C23.98625,0.9525 23.98625,1.845 24.5225,2.38 L34.58125,12.43875 L1.38875,12.43875 C0.615,12.44 0,13.055 0,13.82875 C0,14.6025 0.615,15.2375 1.38875,15.2375 L34.58125,15.2375 L24.5225,25.2775 C23.98625,25.8325 23.98625,26.72625 24.5225,27.26125 C25.0775,27.81625 25.97125,27.81625 26.50625,27.26125 L38.94625,14.82125 C39.50125,14.285 39.50125,13.3925 38.94625,12.8575 L26.50625,0.41625 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
